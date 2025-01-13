@@ -20,9 +20,5 @@
 8. Open your web browser and type 'localhost:8080'
 9. Hurray! That's it!
 
-## SUPERADMIN-LOGIN
-<p>Email : sai@gmail.com</p>
-<p>password : 123</p>
-
 
 
