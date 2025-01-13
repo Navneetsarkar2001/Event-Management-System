@@ -1,6 +1,5 @@
 # EXQUISITE - EVENT-MANAGEMNET-SYSTEM
 
-PPT : [Click Here](https://docs.google.com/presentation/d/1ChT6H6wb5OIiYuz-tZQBNC8b2-ZIeDcy/edit#slide=id.p1)
 <br>
 Presentation Video : [Click Here](https://fluvid.com/videos/detail/xqrExu_jGks1E4k8Z)
 <br>
