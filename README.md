@@ -20,19 +20,6 @@
 8. Open your web browser and type 'localhost:8080'
 9. Hurray! That's it!
 
-# login credentials
-## ADMIN-LOGIN
-<p>Email : ganapathy2000subramanian@gmail.com</p>
-<p>password : admin@123</p>
-
-## USER-LOGIN
-<p>Email : ganapathydaprojects@gmail.com</p>
-<p>password : 123</p>
-
-## SUBADMIN-LOGIN
-<p>Email : venky777@gmail.com</p>
-<p>password : 123</p>
-
 ## SUPERADMIN-LOGIN
 <p>Email : sai@gmail.com</p>
 <p>password : 123</p>
