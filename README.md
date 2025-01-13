@@ -1,10 +1,14 @@
 # EXQUISITE - EVENT-MANAGEMNET-SYSTEM
 
-PPT : [Click Here](https://docs.google.com/presentation/d/1ChT6H6wb5OIiYuz-tZQBNC8b2-ZIeDcy/edit#slide=id.p1)
-<br>
-Presentation Video : [Click Here](https://fluvid.com/videos/detail/xqrExu_jGks1E4k8Z)
-<br>
-Live Demo Video : [Click Here](https://clipchamp.com/watch/qZ726cMrv92)
+![image](https://github.com/user-attachments/assets/5106d5fe-cb6c-42d9-a80a-3235084701d8)
+![image](https://github.com/user-attachments/assets/a2834d36-d3e5-4e21-bfa9-3164ae3ed0f8)
+![image](https://github.com/user-attachments/assets/d6a4fc3f-d76d-4b10-a75e-6a01b881fca6)
+![image](https://github.com/user-attachments/assets/939c220e-4c2b-4db1-af51-9413d1c009fa)
+![image](https://github.com/user-attachments/assets/7dbf3e8b-6e03-48cc-8993-c6076d3cfc35)
+![image](https://github.com/user-attachments/assets/9a98c688-942f-48a6-bc61-706f204240a1)
+![image](https://github.com/user-attachments/assets/d669a94d-43a8-4371-ac1d-99e1f726d17d)
+![image](https://github.com/user-attachments/assets/5d4a1d36-e8a8-455c-9212-c0495c4c7613)
+
 ## Steps to run the project in your machine
 1. Download and install spring tool suite in your machine
 2. Clone or download the repository
